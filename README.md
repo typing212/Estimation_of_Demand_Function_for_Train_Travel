@@ -1,5 +1,5 @@
 # Estimation_of_Demand_Function_for_Train_Travel
-Econometrics Project - 
+Econometrics Project - identify instrumental variables and use 2SLS to train the linear model.
 
 ## Key words
 2SLS, Instrumental Variables
