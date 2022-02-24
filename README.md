@@ -4,7 +4,7 @@ Econometrics Project - identify instrumental variables and use 2SLS to train the
 ## Key words
 2SLS, Instrumental Variables
 
-## Context
+## Content
 The aim for this project is to estimate the demand function of train travel by using data on train ticket sales at a particular train station. The price, from experience, might be endogenous. The two-stage least squares method (2SLS) is used to handle this in a linear regression framework. Instrumental variables are identified and tested. 2SLS is applied to generate unbiased slope coefficients at a cost of variance increase.
 
 ## Dataset
